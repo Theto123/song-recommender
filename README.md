@@ -71,7 +71,7 @@ Hope you enjoy them!
 
 ## 🧑‍💻 Made by
 
-**Theto Praise Mamabolo**  
+**Theto Mamabolo**  
 Inspired by curiosity, music, and the joy of creating useful tools with code.
 
 ---
