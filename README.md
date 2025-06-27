@@ -50,11 +50,10 @@ It then randomly selects an artist that matches that mood and uses the [iTunes S
 Enter song type from this list:
 ['Happy', 'Sad', 'Chill', 'Groovy', 'Romantic', 'Nostalgic']
 
-happy
 Enter a search limit:
 5
 
-We have selected 5 songs by PharrellWilliams for you.
+We have selected 5 songs by Pharrell Williams for you.
 Hope you enjoy them!
 
 -Happy
